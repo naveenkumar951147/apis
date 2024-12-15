@@ -1,0 +1,406 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Pastel Poetry",
+        "image": "https://b.zmtcdn.com/data/pictures/3/18739643/bc610dfe76ae3c9a57656ceb94d0b313_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "reviewCount": "823"
+        },
+        "url": "/vellore/pastel-poetry-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "Hotel Rangalaya Royal, 60/1, Vellore - Chittoor Road, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "South Indian, North Indian, Chinese"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Restaurant",
+        "name": "KFC",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/19282127/72e334f98bd9fa469c6768e63b656456_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "reviewCount": "9,530"
+        },
+        "url": "/vellore/kfc-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "99/A, Suthanthira Ponvizha Nagar, Vellore Katpadi Road, Katpadi, Vellore"
+        },
+		"tag": ["Novn-Veg"],
+        "servesCuisine": "Burger, Fast Food, Rolls"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Orchid by Fortune Park Vellore",
+        "image": "https://b.zmtcdn.com/data/pictures/0/19477060/02ade36b36d2722c867ca3585fbd1670_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "0",
+          "reviewCount": "3"
+        },
+        "url": "/vellore/orchid-by-fortune-park-vellore-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "Near Auxilium College, 17th East Main Road, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "North Indian, South Indian, Chinese"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Hundreds Heritage",
+        "image": "https://b.zmtcdn.com/data/pictures/1/18740201/0502f15cd166370a0cd1b70375cd90de_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "reviewCount": "3,099"
+        },
+        "url": "/vellore/hundreds-heritage-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "10, 14th East Cross Road, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "North Indian, Chinese, Continental"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Restaurant",
+        "name": "WOW! Momo",
+        "image": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "reviewCount": "315"
+        },
+        "url": "/vellore/wow-momo-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "617/1A, Ground Floor, VIT Main Road, Katpadi, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Momos, Tibetan, Sichuan"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Burger King",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/8/20874248/ca95a5e2f62783c97ce051fae26d7870_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "reviewCount": "2,680"
+        },
+        "url": "/vellore/burger-king-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "372/6, Survey 475/3B & 476/2B, Ground Floor, Balaji Nagar, 2nd Main Road, Near Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Burger, Fast Food, Beverages"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Bombay Anand Bhavan",
+        "image": "https://b.zmtcdn.com/data/pictures/8/18739678/b274b8a6096b63d53271a3c7c894b897_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.3",
+          "reviewCount": "65"
+        },
+        "url": "/vellore/bombay-anand-bhavan-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "398, Vellore - Katpadi Road, Near Odai Pillaiyar Kovil, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg"],
+        "servesCuisine": "Street Food, Fast Food, Sandwich"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Restaurant",
+        "name": "WOW! China",
+        "image": "https://b.zmtcdn.com/images/res_avatar_476_320_1x_new.png?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "reviewCount": "489"
+        },
+        "url": "/vellore/wow-china-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "617/1A, Ground Floor, VIT Main Road, Katpadi, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Chinese, Asian, Sichuan"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Restaurant",
+        "name": "McDonald's",
+        "image": "https://b.zmtcdn.com/data/pictures/2/20169862/d71443c786caaf06694b50a699a8a5d6_featured_v2.jpg?output-format=webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "reviewCount": "3,476"
+        },
+        "url": "/vellore/mcdonalds-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "Unit 1, Ground Floor, Asokan Plaza, Selvam Nagar, 151-VIT College Road, Katpadi, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Burger, Fast Food, Cafe"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Restaurant",
+        "name": "7th Heaven",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20209094\/bb469a4b422c51e62e5cb2813f05f4a4_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "376"
+        },
+        "url": "/vellore/7th-heaven-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "42, VIP Nagar, Near VIT, Katpadi, Vellore""
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Fast Food, Chinese, Bakery, Shake, Beverages, Desserts, Coffee"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Hotel Alankar",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/18738485\/7394d4ce885ce17e743315a6d8115066_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "reviewCount": "26"
+        },
+        "url": "/vellore/hotel-alankar-thottapalayam/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "New Bus Stand, Ward 59, Thottapalayam, Vellore"
+        },
+		"tag": ["Veg"],
+        "servesCuisine": "South Indian"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Mandeez Kitchen",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/20405815\/560eb5bacbbf990f735a4874e5b4dae6_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "226"
+        },
+        "url": "/vellore/mandeez-kitchen-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "Unit 1, Ground Floor, Asokan Plaza, Selvam Nagar, 151-VIT College Road, Katpadi, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Chinese, Kebab, Mughlai, Arabian, Mandi, Ice Cream, Beverages"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Abhiruchi Restaurant",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18740162\/e36001cd69479bcbf449b521972efb4b_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "reviewCount": "115"
+        },
+        "url": "/vellore/abhiruchi-restaurant-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "34A, K.E.V Plaza, Auxillium College Road, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Biryani, Andhra, Chettinad, South Indian, Chinese, Mughlai, North Indian, Sichuan"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Lava Cakes",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/18740010\/a7e0b3265eb6cbb4892415ec68fd5233_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "86"
+        },
+        "url": "/vellore/lava-cakes-katpadi/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "23, Velaikalmedu, Kangayanallur Road, Opposite to VIT, Katpadi, Vellore"
+        },
+		"tag": ["Veg"],
+        "servesCuisine": "Bakery"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Domino's Pizza",
+        "image": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/18739655\/2dc1f598b7cc18df67a5c043f6109a6e_featured_v2.jpg",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "reviewCount": "129"
+        },
+        "url": "/vellore/dominos-pizza-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "66, Ground Floor, Katpadi Main Road, Kalinjur, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg", "Novn-Veg"],
+        "servesCuisine": "Pizza, Italian, Pasta, Fast Food, Desserts"
+      }
+    },
+	{
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Restaurant",
+        "name": "Sri Annapurna Hotel Veg",
+        "image": "https:\/\/b.zmtcdn.com\/images\/res_avatar_476_320_1x_new.png",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.4",
+          "reviewCount": "3241"
+        },
+        "url": "/vellore/sri-annapurna-hotel-veg-2-gandhi-nagar/info",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "",
+          "addressRegion": "",
+          "postalCode": "",
+          "streetAddress": "Pillaiyar Street, Viruthampet, Gandhi Nagar, Vellore"
+        },
+		"tag": ["Veg"],
+        "servesCuisine": "South Indian"
+      }
+    }
+  ]
+}
